@@ -1,7 +1,5 @@
 '''
-Author - Anay Gour
 Date - 01 Oct 2021
-Purpose - Project for python
 Title - Iron Man Jarvis Desktop Voice Assistant
 '''
 import pyttsx3 # pip install pyttsx3
